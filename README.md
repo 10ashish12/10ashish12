@@ -17,9 +17,9 @@
 
 
 
-:mortar_board: I am a Computer Science Undergratue with specialization in Machine Learning. 
+:mortar_board: I am a Computer Science Undergratue with specialization in Backend development. 
 
-:see_no_evil: I completed Smart India Hackathon . I am working on open source projects since my first Year.
+:see_no_evil: I am working on open source projects since my first Year.
 
 🌱 I have an innovative and analytical mindset for working on new and challenging ideas.
 
@@ -63,11 +63,11 @@ src="https://2.bp.blogspot.com/-uRY6I6uVF_s/VaXffmYyvVI/AAAAAAAAB7s/Jw15R0qy9VQ/
 <img src='https://github-readme-stats.vercel.app/api?username=11deepak0209&show_icons=true&theme=algolia&count_private=true&line_height=30' width = "500" align ="left" />
 <p align="left"> <a href="https://github.com/11deepak0209"><img src="https://github-profile-trophy.vercel.app/?username=11deepak0209&theme=dracula" alt="11deepak0209" /></a</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=11deepak0209&theme=algolia)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=10ashish12&theme=algolia)](https://git.io/streak-stats)
 
-![Pop repo ](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=11deepak0209&repo=Mini-Project-in-C&theme=algolia)
+![Pop repo ](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=10ashish12&repo=Mini-Project-in-C&theme=algolia)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F11deepak0209&count_bg=%2379C83D&title_bg=%23242748&icon=dev-dot-to.svg&icon_color=%2311E70C&title=COUNT+ViSITORS&edge_flat=false)](https://hits.seeyoufarm.com)
-![Visitor Count](https://profile-counter.glitch.me/11deepak0209/count.svg)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F10ashish12&count_bg=%2379C83D&title_bg=%23242748&icon=dev-dot-to.svg&icon_color=%2311E70C&title=COUNT+ViSITORS&edge_flat=false)](https://hits.seeyoufarm.com)
+![Visitor Count](https://profile-counter.glitch.me/10ashish12/count.svg)
 <hr>
    
