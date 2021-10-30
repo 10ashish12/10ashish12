@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ashish singh <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<h1 align="center">Hi 👋, I'm ASHISH SINGH<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
